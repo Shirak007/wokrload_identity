@@ -1,4 +1,4 @@
-"AadClientId": "dd7333ef-a77c-40a9-b3d4-ca25a1f8e0af",
-"AadSecret": "XSs8Q~DkqeqaAQIimw_SR3fehgBDKmnpx5wDNcUp",
+"AadClientId": "228ae4d0-f582-4137-9e0d-1af5614cebd7",
+"AadSecret": "gYT8Q~qhqx2IberfXWF3TQ17gEDRptdBa0hGFdmk",
 "AadTenantDomain": "cerfgroup.onmicrosoft.com",
 "AadTenantId": "8b87ca16-9e1b-4519-a425-4bc089cb79f8",
